@@ -1,0 +1,19 @@
+{
+  "name": "hw1zcouts",
+  "version": "1.0.0",
+  "description": "Homework 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacCouts/HW1Zcouts.git"
+  },
+  "author": "Zachary Couts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacCouts/HW1Zcouts/issues"
+  },
+  "homepage": "https://github.com/ZacCouts/HW1Zcouts#readme"
+}
